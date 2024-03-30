@@ -1,1 +1,1 @@
-Code analysis a public banking dataset
+Code analysing a public banking dataset
